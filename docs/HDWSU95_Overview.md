@@ -1,16 +1,16 @@
-# A330 Neo Overview
+# SU95X Overview
 
 ## Introduction
 
-* This section of the Headwind Simulations Documentation is dedicated to the A330 Neo add-on itself. It covers the software and more technical aspects of the Headwind Simulations add-on.
+* This section of the Headwind Simulations Documentation is dedicated to the SU95X add-on itself. It covers the software and more technical aspects of the Headwind Simulations add-on.
 
-* Headwind Simulations is a small group of enthusiast to provide freeware aircrafts for the Microsoft Flight Simulator. Our Add-On A330 Neo is one of the most downloaded aircrafts for the simulator. Our goal is to make an independent add-on project aiming to bring the Headwind Simulations A330 Neo up to payware-level systems depth and functionality, all for free.
+* Headwind Simulations is a small group of enthusiast to provide freeware aircrafts for the Microsoft Flight Simulator. Our Add-On SU95X is one of the most downloaded aircrafts for the simulator. Our goal is to make an independent add-on project aiming to bring the Headwind Simulations SU95X up to payware-level systems depth and functionality, all for free.
 <br>
 ## Aircraft Configuration(s)
 
 * The following aircraft configurations are currently simulated:
 ```
-Model       A330 Neo
+Model       SU95X
 Engine      Rolls-Royce Trent 7000
 APU         APS3200
 FMS         Honeywell Release H3
@@ -68,7 +68,7 @@ ANSWER
 <br>
 ## Installation Guide
 !!! Warning "Important Notice" 
-    All Headwind Simulations A33X versions are now independent of the default A320neo. We’d like to remind all users of the following two important changes: The folder in the Community directory is now: headwindsim-aircraft-a330-900 The airplane in the simulator is now titled: FlyByWire Simulations - A320neo (LEAP)
+    All Headwind Simulations SU95X versions are now independent of the default A320neo. We’d like to remind all users of the following two important changes: The folder in the Community directory is now: headwindsim-aircraft-a330-900 The airplane in the simulator is now titled: FlyByWire Simulations - A320neo (LEAP)
 You can download all Headwind Simulations aircraft from our installer where you can select either the Release, or Pre-Release build. Our installer downloads and installs the add-on directly into your community folder.
 
 <a class="md-button" href="https://cdn.headwindsim.net/installer/release/Headwind_Installer_Setup.exe" target="new">Download Installer</a>
