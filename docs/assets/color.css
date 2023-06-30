@@ -50,3 +50,9 @@
     h1, h2, h3, p, a {
         text-align: center;
     } */
+
+a.md-button:hover {
+  background-color: orange !important;
+  color: black !important;
+  border-color: transparent !important;
+}
