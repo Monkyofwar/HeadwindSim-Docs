@@ -11,7 +11,7 @@
 * The following aircraft configurations are currently simulated:
 ```
 Model       A330 Ceo
-Engine      Rolls-Royce Trent 7000
+Engine      Rolls-Royce Trent 700
 APU         APS3200
 FMS         Honeywell Release H3
 FWC Std.    H2F13
