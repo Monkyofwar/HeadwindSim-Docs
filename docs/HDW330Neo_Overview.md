@@ -38,7 +38,7 @@ Visit our Installation Guide Here <insert hyperlink at somepoint ps and ty>;).
 
 <details>
 <summary>Q: What liveries are available?</summary>
-Headwind Simulations provides our own branded livery as well as 10+ highyly detailed liverys in our livery pack found on our installer. We recommend downloading compatible liveries from Flightsim.to.
+Headwind Simulations provides our own branded livery as well as over 10 highyly detailed liverys in our livery pack found on our installer, Or alternatively download compatible liveries from Flightsim.to.
 </details>
 
 <details>
