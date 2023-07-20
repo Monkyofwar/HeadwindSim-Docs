@@ -28,17 +28,17 @@ WXR         Honeywell RDR-4000
 
 <details>
 <summary>Q: Can I download the aircraft in the current state?</summary>
-Yes, see Downloads.
+Yes, see Downloads Section.
 </details>
 
 <details>
 <summary>Q: How do I install this aircraft?</summary>
-Visit our Installation Guide.
+Visit our Installation Guide Here <insert hyperlink at somepoint ps and ty>;).
 </details>
 
 <details>
 <summary>Q: What liveries are available?</summary>
-Headwind Simulations provides our own branded livery. We recommend downloading compatible liveries from Flightsim.to.
+Headwind Simulations provides our own branded livery as well as 10+ highyly detailed liverys in our livery pack found on our installer. We recommend downloading compatible liveries from Flightsim.to.
 </details>
 
 <details>
