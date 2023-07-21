@@ -8,7 +8,7 @@
 ### Cutting-Edge Aerodynamics and Engine Technology
 * The A330 Series boasts the latest advancements in aerodynamic design and engine technology.
 
-* New-generation Rolls-Royce Trent 7000 engines for reduced fuel consumption and emissions
+* New-generation Rolls-Royce Trent 7000 engines for reduced fuel consumption and emissions (A330 NEO Family)
 * Advanced wingtip devices (Sharklets) for improved fuel efficiency and noise reduction
 ### Unparalleled Passenger Comfort and Amenities
 * Indulge in a comfortable and spacious cabin, equipped with modern amenities and entertainment options.

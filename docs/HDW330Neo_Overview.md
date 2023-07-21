@@ -18,7 +18,7 @@ FWC Std.    H2F13
 TAWS        Honeywell EGPWS
 ACAS        Honeywell TPA-100B
 ATC         Honeywell TRA-100B
-MMR         Honeywell iMMR
+MMR         Honeywell iMMRs
 WXR         Honeywell RDR-4000
 ```
 <br>
