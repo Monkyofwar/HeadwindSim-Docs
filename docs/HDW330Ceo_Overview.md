@@ -67,7 +67,7 @@ ANSWER
 <br>
 ## Installation Guide
 !!! Warning "Important Notice" 
-    All Headwind Simulations A33X versions are now independent of the default A320neo. We’d like to remind all users of the following two important changes: The folder in the Community directory is now: headwindsim-aircraft-a330-900 The airplane in the simulator is now titled: FlyByWire Simulations - A320neo (LEAP)
+    All Headwind Simulations A33X versions are now independent of the default A320neo. We’d like to remind all users of the following two important changes: The folder in the Community directory is now: headwindsim-aircraft-a330-900 The airplane in the simulator is now titled: Headwind Simulations - A330-900neo 
 You can download all Headwind Simulations aircraft from our installer where you can select either the Release, or Pre-Release build. Our installer downloads and installs the add-on directly into your community folder.
 
 <a class="md-button" href="https://cdn.headwindsim.net/installer/release/Headwind_Installer_Setup.exe" target="new">Download Installer</a>
