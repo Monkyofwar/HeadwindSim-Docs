@@ -33,7 +33,7 @@ Yes, see Downloads Section.
 
 <details>
 <summary>Q: How do I install this aircraft?</summary>
-Visit our Installation Guide Here (insert hyperlink at somepoint ps and ty).
+Visit our Installation Guide Here (insert hyperlink at somepoint please and ty).
 </details>
 
 <details>
